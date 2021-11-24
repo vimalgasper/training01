@@ -3,6 +3,5 @@
 This is the first file in this repository.
 
 
-## Random text
-=RAND()
-testing
+## Website Contents
+1.index.html
